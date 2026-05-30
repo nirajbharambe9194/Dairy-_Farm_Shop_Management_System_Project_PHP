@@ -103,3 +103,4 @@ The system uses MySQL as the backend database. PHP MySQLi functions are used to 
 
 The Dairy Farm Shop Management System provides an efficient and automated solution for managing dairy farm shop operations. It simplifies inventory management, billing, sales tracking, and customer record maintenance, helping businesses improve productivity and accuracy while reducing manual effort.
 
+## Unzip dist.zip & vendors.zip in same folder
